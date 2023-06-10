@@ -1,11 +1,11 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm n Rony Ahmed</h1>
-<p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Diploma+in+Computer+Enginnering;Full+Stack+Web+Developer;&center=true&width=500&height=50"></a>
-</p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm  Rony Ahmed</h1>
+<h3 align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Diploma+in+Computer+Engineer;Full+Stack+Web+Developer;&center=true&width=500&height=50"></a>
+</h3>
 
 <p align="center">
   <em>
-    This is me <b>Rony Ahmed</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>Programming Hero learner</b>,Bangladesh</a>.
+    This is me <b>Rony Ahmed</b> Completed Diploma in Barishal Polytechnic Institute, Learning by <a href="[https://programmimg](https://web.programming-hero.com/)"> <b>Programming Hero </b>,Bangladesh</a>.
     An aspiring <b>Full-Stack Web Developer,</b>&nbsp; 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
