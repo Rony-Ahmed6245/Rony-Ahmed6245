@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Rony Ahmed</b> Completed Diploma in Barishal Polytechnic Institute, Learning by <a target="blank" href="https://web.programming-hero.com">Programming Hero</a>, Bangladesh</b>&nbsp; 
+    This is me <b>Rony Ahmed</b> Completed Diploma in Barishal Polytechnic Institute, Learning by <a target="_blank" href="https://web.programming-hero.com">Programming Hero</a>, Bangladesh</b>&nbsp; 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
     <p align="center">
@@ -22,7 +22,7 @@
  <a href="https://instagram.com/alsiam.dev" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
- <a href="https://facebook.com/alsiam.dev" target="_blank">
+ <a href="https://web.facebook.com/profile.php?id=100010277806033&mibextid=ZbWKwL&_rdc=1&_rdr" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
