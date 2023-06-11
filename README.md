@@ -35,8 +35,8 @@
 - 👯 I’m looking to collaborate with Fullstack Web Developement projects.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 - ⚡ Fun fact: I love Sports, especially Football.
-<br>
 
+<img width="100" height="100" style="align-item:right;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ---
 ## Use To Code
 
