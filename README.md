@@ -1,4 +1,4 @@
-<img style="border-redius:20%" width="100%" height="300" src="https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/350489783_199086919749374_1985113659157522336_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHO54-kCy4xIpX03vb_scaCIEyvxWGnrZMgTK_FYaetkxPSZBYvfmpqDsb6YgWNKynwvSynVlOU3YZ8Cxnu86wG&_nc_ohc=O0INV72K7aUAX_zWA4c&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&oh=00_AfBB2Fu3q0r4-GRBUjlZt1cygO4B1mraSBaJFtc-T5X7JQ&oe=64893D14" alt="" />
+<img width="100%" height="300" style="align-item:right;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm  Rony Ahmed</h1>
 <h3 align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Diploma+in+Computer+Engineer;Full+Stack+Web+Developer;&center=true&width=500&height=50"></a>
@@ -36,7 +36,7 @@
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 - ⚡ Fun fact: I love Sports, especially Football.
 
-<img width="100" height="100" style="align-item:right;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ---
 ## Use To Code
 
