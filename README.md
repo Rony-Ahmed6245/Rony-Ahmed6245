@@ -10,13 +10,13 @@
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
     <p align="center">
- <a href="https://alsiam.com" target="blank">
+ <a href="#website" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Rony-Ahmed6245" />
  </a>
- <a href="https://linkedin.com/in/saifalsiam" target="_blank">
+ <a href="https://www.linkedin.com/in/rony-ahmed-b31145240/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
- <a href="https://twitter.com/alsiam_dev" target="_blank">
+ <a href="#twiter" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://instagram.com/alsiam.dev" target="_blank">
@@ -78,7 +78,7 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/">
+  <a href="https://www.linkedin.com/in/rony-ahmed-b31145240/">
    <img align="left" alt=" Ratheshan Sathiyamoorthy | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="mailto:lionratheshan@gmail.com">
@@ -90,7 +90,7 @@
   <a href="https://www.instagram.com/ratheshan_03/">
     <img align="left" alt="Ratheshan Sathiyamoorthy | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://www.facebook.com/profile.php?id=100003874786181">
+   <a href="https://web.facebook.com/profile.php?id=100010277806033&mibextid=ZbWKwL&_rdc=1&_rdr">
     <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
    <a href="https://github.com/Ratheshan03">
