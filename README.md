@@ -1,7 +1,7 @@
 <img width="100%" height="250" style="align-item:right;" src="https://media.licdn.com/dms/image/D5616AQF3e5cFk-mzAA/profile-displaybackgroundimage-shrink_350_1400/0/1692350258856?e=1701907200&v=beta&t=LOcj57IQFSTYA1WjgAtNi3HtGUKLFqhT4n0Mifh1aRc">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm  Rony Ahmed</h1>
 <h3 align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Diploma+in+Computer+Science+Engineering;Fontend+Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Diploma+in+Computer+Science+Engineering;Frontend+Developer;&center=true&width=500&height=50"></a>
 </h3>
 
 <p align="center">
