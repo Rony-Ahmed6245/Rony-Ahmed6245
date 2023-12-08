@@ -13,7 +13,7 @@
  <a href="#website" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Rony-Ahmed6245" />
  </a>
- <a href="https://www.linkedin.com/in/rony-ahmed-b31145240/" target="_blank">
+ <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <a href="#twiter" target="_blank">
