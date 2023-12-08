@@ -70,35 +70,35 @@
 
 <p align="center">
   <a href="https://github.com/Rony-Ahmed6245">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rony-Ahmed624&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rony-Ahmed6245&theme=radical" alt="all GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
     <a href="https://github.com/Rony-Ahmed6245"><img alt="Rony-Ahmed6245" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rony-Ahmed6245&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Rony-Ahmed6245"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rony-Ahmed6245&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Rony-Ahmed6245"><img alt="Al  Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rony-Ahmed6245&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 </br>
 <h4> Connect with me🤝: <h4>
   </hr>
   <a href="https://www.linkedin.com/in/rony-ahmed-b31145240/">
-   <img align="left" alt=" Ratheshan Sathiyamoorthy | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+   <img align="left" alt=" Rony Ahmed | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="mailto:ronyahmed6245@gmail.com">
-    <img align="left" alt="Ratheshan Sathiyamoorthy | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+    <img align="left" alt="Rony Ahmed| Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="#">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+    <img align="left" alt="Rony Ahmed| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
   <a href="#">
-    <img align="left" alt="Ratheshan Sathiyamoorthy | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+    <img align="left" alt="Rony Ahmed | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
    <a href="https://web.facebook.com/profile.php?id=100010277806033&mibextid=ZbWKwL&_rdc=1&_rdr">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+    <img align="left" alt="Rony Ahmed| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
    <a href="https://github.com/Rony-Ahmed6245">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+    <img align="left" alt="Rony Ahmed| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
   
