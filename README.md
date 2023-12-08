@@ -1,7 +1,7 @@
 <img width="100%"  style="align-items: right;" src="https://raw.githubusercontent.com/Rony-Ahmed6245/Rony-Ahmed6245/main/Rony%20ahmed%20(3).png">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm  Rony Ahmed</h1>
 <h3 align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Diploma+in+Computer+Science+Engineering;Front+end+Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Diploma+in+Computer+Science+Engineering;Frontend+Developer;&center=true&width=500&height=50"></a>
 </h3>
 
 <p align="center">
@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://github.com/Rony-Ahmed6245">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rony-Ahmed6245&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rony-Ahmed6245&theme=radical&border=7F3FBF&background=0D1117" alt="rony ahmed"/>
   </a>
 </p>
 
@@ -97,6 +97,8 @@
   
 <p align="right" > Created with 🖤 by <a href="https://github.com/Rony-Ahmed6245">Rony Ahmed</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=Rony-Ahmed6245&label=Profile%20views&color=0e75b6&style=flat" alt="Rony-Ahmed6245" /> </p>
+
+
 
 
 
