@@ -1,4 +1,4 @@
-<img width="100%" height="250" style="align-items: right;" src="https://i.ibb.co/gZ8DFJk/RONY-AHMED.png">
+<img width="100%" height="250" style="align-items: right; background-color: #003366;" src="https://i.ibb.co/gZ8DFJk/RONY-AHMED.png">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm  Rony Ahmed</h1>
 <h3 align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Diploma+in+Computer+Science+Engineering;Front+end+Developer;&center=true&width=500&height=50"></a>
