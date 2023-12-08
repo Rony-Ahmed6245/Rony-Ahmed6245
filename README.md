@@ -102,6 +102,11 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=urraju&theme=midnight-purple&border_radius=5)](https://git.io/streak-stats)
 </p>
 
+<p align="center">
+  <a href="https://github.com/Rony-Ahmed6245">
+    <img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rony-Ahmed6245&theme=radica](https://github-readme-streak-stats.herokuapp.com?user=urraju&theme=midnight-purple&border_radius=5)](https://git.io/streak-stats)https://github-readme-streak-stats.herokuapp.com?user=urraju&theme=midnight-purple&border_radius=5)](https://git.io/streak-stats" alt="all GitHub Contribution"/>
+  </a>
+</p>
   
   
   
