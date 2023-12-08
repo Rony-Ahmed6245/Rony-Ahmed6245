@@ -79,11 +79,11 @@
 </br>
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/rony-ahmed-b31145240/">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
    <img align="left" alt=" Rony Ahmed | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="mailto:ronyahmed6245@gmail.com">
-    <img align="left" alt="Rony Ahmed| Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  <img align="left" alt="Rony Ahmed | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="#">
     <img align="left" alt="Rony Ahmed| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
