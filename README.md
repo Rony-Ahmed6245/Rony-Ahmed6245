@@ -34,7 +34,7 @@
 - 🔭 I’m currently working on Fontend Web Development.
 - 👯 I’m looking to collaborate with Fontend Web Developement projects.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Coding, especially new website.
+- ⚡ Fun fact: I love sports, especially Football.
 
 
 ---
