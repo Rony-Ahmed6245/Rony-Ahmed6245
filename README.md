@@ -21,10 +21,7 @@
  </a>
  <a href="#instagram" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a href="https://web.facebook.com/profile.php?id=100010277806033&mibextid=ZbWKwL&_rdc=1&_rdr" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
+ </a>
 </p>
 </p>
 
@@ -94,12 +91,8 @@
   <a href="#">
     <img align="left" alt="Rony Ahmed | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://web.facebook.com/profile.php?id=100010277806033&mibextid=ZbWKwL&_rdc=1&_rdr">
-    <img align="left" alt="Rony Ahmed| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-  </a>
-   <a href="https://github.com/Rony-Ahmed6245">
-    <img align="left" alt="Rony Ahmed| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
+  
+ 
   <br>
   
 <p align="right" > Created with 🖤 by <a href="https://github.com/Rony-Ahmed6245">Rony Ahmed</a></p>
