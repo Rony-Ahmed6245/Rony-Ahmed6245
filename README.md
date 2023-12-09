@@ -71,12 +71,16 @@
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/Rony-Ahmed6245"><img alt="Rony-Ahmed6245" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rony-Ahmed6245&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Rony-Ahmed6245"><img alt="Al  Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rony-Ahmed6245&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a > 
+    <a href="https://github.com/Rony-Ahmed6245"><img alt="Rony-Ahmed6245" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rony-Ahmed6245&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/Rony-Ahmed6245"><img alt="Al  Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rony-Ahmed6245&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" /></a>
   <br/>
 </a>
 </br>
+
+
+
+
 <h4> Connect with me🤝: <h4>
   </hr>
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
