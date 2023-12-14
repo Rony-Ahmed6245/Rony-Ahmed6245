@@ -10,7 +10,7 @@
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
     <p align="center">
- <a href="#website" target="blank">
+ <a href="https://personal-portfolio45.netlify.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Rony-Ahmed6245" />
  </a>
  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
