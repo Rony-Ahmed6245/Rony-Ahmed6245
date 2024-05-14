@@ -1,4 +1,4 @@
-<img width="100%"  style="align-items: center;" src="https://i.ibb.co/WKQ88KH/brunch.pnghttps://i.ibb.co/fxqZpxt/brunch-1.png">
+<img width="100%"  style="align-items: center;" src="https://i.ibb.co/fxqZpxt/brunch-1.png">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm  Rony Ahmed</h1>
 <h3 align="center">
 <a href="https://github.com/Ratheshan03/readme-typing-svg">
