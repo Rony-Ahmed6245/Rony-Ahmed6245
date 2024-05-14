@@ -1,4 +1,4 @@
-<img width="100%"  style="align-items: center;" src="https://raw.githubusercontent.com/Rony-Ahmed6245/Rony-Ahmed6245/main/Rony%20ahmed%20(3).png">
+<img width="100%"  style="align-items: center;" src="https://i.ibb.co/WKQ88KH/brunch.png">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm  Rony Ahmed</h1>
 <h3 align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Diploma+in+Computer+Science+Engineering;Frontend+Developer;&center=true&width=500&height=50"></a>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Rony-Ahmed6245" />
  </a>
  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a>
  <a href="#twiter" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
