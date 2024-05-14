@@ -19,9 +19,7 @@
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
   <img src="https://i.ibb.co/znxpwNN/3-removebg-preview.png" style="width: 24%;" />
 </a>
-<a href="#twiter" target="_blank">
-  <img src="https://i.ibb.co/djcNnxr/2-removebg-preview.png" style="width: 24%;" />
-</a>
+
 <a href="#twiter" target="_blank">
   <img src="https://i.ibb.co/56fXB75/Now-removebg-preview.png" style="width: 24%;" />
 </a>
