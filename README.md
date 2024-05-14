@@ -14,16 +14,16 @@
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
     <p align="center">
 <a href="https://personal-portfolio45.netlify.app/" target="_blank">
-  <img src="https://i.ibb.co/3psFds6/1-removebg-preview.png" alt="Rony-Ahmed6245" style="width: 20%;" />
+  <img src="https://i.ibb.co/3psFds6/1-removebg-preview.png" alt="Rony-Ahmed6245" style="width: 24%;" />
 </a>
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
-  <img src="https://i.ibb.co/znxpwNN/3-removebg-preview.png" style="width: 20%;" />
+  <img src="https://i.ibb.co/znxpwNN/3-removebg-preview.png" style="width: 24%;" />
 </a>
 <a href="#twiter" target="_blank">
-  <img src="https://i.ibb.co/djcNnxr/2-removebg-preview.png" style="width: 20%;" />
+  <img src="https://i.ibb.co/djcNnxr/2-removebg-preview.png" style="width: 24%;" />
 </a>
 <a href="#twiter" target="_blank">
-  <img src="https://i.ibb.co/56fXB75/Now-removebg-preview.png" style="width: 20%;" />
+  <img src="https://i.ibb.co/56fXB75/Now-removebg-preview.png" style="width: 24%;" />
 </a>
 
 
