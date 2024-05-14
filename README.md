@@ -14,17 +14,15 @@
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
     <p align="center">
  <a href="https://personal-portfolio45.netlify.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Rony-Ahmed6245" />
+  <img src="https://i.ibb.co/3psFds6/1-removebg-preview.png" alt="Rony-Ahmed6245" />
  </a>
  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  <img src="https://i.ibb.co/znxpwNN/3-removebg-preview.png"/> 
  </a>
  <a href="#twiter" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://i.ibb.co/djcNnxr/2-removebg-preview.png" />
  </a>
- <a href="#instagram" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"  />
- </a>
+
 </p>
 </p>
 
