@@ -28,7 +28,13 @@
 </p>
 </p>
 
-<h3>Little facts about me 🧑</h3>
+# Objective
+<p>Exploring a challenging role in a reputable organization to utilize my technical, database, and management 
+skills for the growth of the organization
+</p>
+
+
+# Little facts about me 🧑
 
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on Fontend Web Development.
@@ -37,9 +43,8 @@
 - ⚡ Fun fact: I love sports, especially Football.
 
 
----
-## Use To Technology
 
+# Key Skill & Technology
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Router DOM](https://img.shields.io/badge/React_Router_DOM-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -56,12 +61,9 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-
-----
-
-
 <br/>
 
+# Github Analytics
 <p align="center">
   <a href="https://github.com/Rony-Ahmed6245">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rony-Ahmed6245&theme=radical&border=7F3FBF&background=0D1117" alt="rony ahmed"/>
@@ -82,7 +84,7 @@
 
 
 
-<h4> Connect with me🤝: <h4>
+<h4> Connect with me🤝:Feel free to reach out to me through <h4>
   </hr>
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
    <img align="left" alt=" Rony Ahmed | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
