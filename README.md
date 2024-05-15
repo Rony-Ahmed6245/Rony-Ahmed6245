@@ -28,13 +28,14 @@
 </p>
 </p>
 
-# Objective
+# 💡Objective
+
 <p>Exploring a challenging role in a reputable organization to utilize my technical, database, and management 
 skills for the growth of the organization
 </p>
 
 
-# Little facts about me 🧑
+# 💡Little facts about me 
 
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on Fontend Web Development.
@@ -44,7 +45,7 @@ skills for the growth of the organization
 
 
 
-# Key Skill & Technology
+# 💡Key Skill & Technology
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Router DOM](https://img.shields.io/badge/React_Router_DOM-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -63,17 +64,27 @@ skills for the growth of the organization
 
 <br/>
 
-# Github Analytics
-<p align="center">
+# 💡Github Analytics
+<p align="center" style="width: 100%;">
   <a href="https://github.com/Rony-Ahmed6245">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rony-Ahmed6245&theme=radical&border=7F3FBF&background=0D1117" alt="rony ahmed"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rony-Ahmed6245&theme=radical&border=7F3FBF&background=0D1117" alt="rony ahmed" style="width: 100%;"/>
   </a>
 </p>
 
-<a > 
-    <a href="https://github.com/Rony-Ahmed6245"><img alt="Rony-Ahmed6245" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rony-Ahmed6245&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="100%"/></a>
-  <a href="https://github.com/Rony-Ahmed6245"><img alt="Al  Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rony-Ahmed6245&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="100%" /></a>
-</a>
+
+<p style="width: 100%;">
+  <a href="https://github.com/Rony-Ahmed6245">
+    <img alt="Rony-Ahmed6245" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rony-Ahmed6245&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="100%"/>
+  </a>
+</p>
+
+
+<div style="width: 100%;">
+  <a href="https://github.com/Rony-Ahmed6245">
+    <img alt="Al Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rony-Ahmed6245&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="100%" />
+  </a>
+</div>
+
 <p align="center">
   <a href="https://github.com/Rony-Ahmed6245">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rony-Ahmed6245&theme=radical" alt="all GitHub Contribution"/>
