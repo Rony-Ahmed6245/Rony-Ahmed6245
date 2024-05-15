@@ -12,20 +12,8 @@
     This is me <b>Rony Ahmed</b> Completed Diploma in Barishal Polytechnic Institute, Learning by <a target="_blank" href="https://web.programming-hero.com">Programming Hero</a>, Bangladesh</b>&nbsp; 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
-    <p align="center">
-<a href="https://personal-portfolio45.netlify.app/" target="_blank">
-  <img src="https://i.ibb.co/3psFds6/1-removebg-preview.png" alt="Rony-Ahmed6245" style="width: 24%;" />
-</a>
-<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
-  <img src="https://i.ibb.co/znxpwNN/3-removebg-preview.png" style="width: 24%;" />
-</a>
 
-<a href="#twiter" target="_blank">
-  <img src="https://i.ibb.co/56fXB75/Now-removebg-preview.png" style="width: 24%;" />
-</a>
-
-
-</p>
+***<p align="center"> [<img height="55" src="https://i.ibb.co/C10wVsG/1-removebg-preview.png">](https://personal-portfolio45.netlify.app/)[<img height="55" src="https://i.ibb.co/JR3hdwj/3-removebg-preview.png">](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)[<img height="55" src="https://i.ibb.co/gvHP7C6/4-removebg-preview.png">]() </p>***
 </p>
 
 # 💡Objective
@@ -46,23 +34,22 @@ skills for the growth of the organization
 
 
 # 💡Key Skill & Technology
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Router DOM](https://img.shields.io/badge/React_Router_DOM-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+<img  src="https://i.ibb.co/KL0G4dz/Screenshot-2024-05-15-100539.png"/>
+<img  src="https://i.ibb.co/G5WBZDC/Screenshot-2024-05-15-100624.png"/>
+<img  src="https://i.ibb.co/WshRpRv/Screenshot-2024-05-15-100647.png"/>
+<img  src="https://i.ibb.co/Y8xq93T/Screenshot-2024-05-15-100707.png"/>
+<img  src="https://i.ibb.co/KKDp417/Screenshot-2024-05-15-100733.png"/>
+<img  src="https://i.ibb.co/t4xPb63/Screenshot-2024-05-15-100753.png"/>
+<img  src="https://i.ibb.co/2MT7ygV/Screenshot-2024-05-15-100813.png"/>
+<img  src="https://i.ibb.co/k9qN1fx/Screenshot-2024-05-15-100836.png"/>
+</p>
+<p align="center">
+
+</p>
 
 
-<br/>
+
 
 # 💡Github Analytics
 <p align="center" style="width: 100%;">
@@ -72,22 +59,23 @@ skills for the growth of the organization
 </p>
 
 
-<p style="width: 100%;">
+<p align="center">
   <a href="https://github.com/Rony-Ahmed6245">
-    <img alt="Rony-Ahmed6245" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rony-Ahmed6245&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="100%"/>
+    <img alt="Rony-Ahmed6245" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rony-Ahmed6245&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+  </a>
+    <a href="https://github.com/Rony-Ahmed6245">
+    <img alt="Al Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rony-Ahmed6245&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"   />
   </a>
 </p>
 
 
 <div style="width: 100%;">
-  <a href="https://github.com/Rony-Ahmed6245">
-    <img alt="Al Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rony-Ahmed6245&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="100%" />
-  </a>
+
 </div>
 
-<p align="center">
+<p align="center" style="width: 100%;">
   <a href="https://github.com/Rony-Ahmed6245">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rony-Ahmed6245&theme=radical" alt="all GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rony-Ahmed6245&theme=radical" alt="all GitHub Contribution" style="width: 100%;"/>
   </a>
 </p>
 </br>
