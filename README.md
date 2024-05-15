@@ -86,17 +86,12 @@ skills for the growth of the organization
 <h4> Connect with me🤝:Feel free to reach out to me through <h4>
   </hr>
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
-   <img align="left" alt=" Rony Ahmed | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+   <img align="left" alt=" Rony Ahmed | Linkedin" width="40px" src="https://i.ibb.co/kyXWkTk/linkedin.png" />
   </a>
-  <a href="mailto:ronyahmed6245@gmail.com">
-  <img align="left" alt="Rony Ahmed | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
+   <img align="left" alt=" Rony Ahmed | Linkedin" width="40px" src="https://i.ibb.co/tbFcK0Y/twiter.png" />
   </a>
-  <a href="#">
-    <img align="left" alt="Rony Ahmed| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>
-  <a href="#">
-    <img align="left" alt="Rony Ahmed | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
+
   
  
   <br>
