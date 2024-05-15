@@ -35,14 +35,14 @@ skills for the growth of the organization
 
 # 💡Key Skill & Technology
 <p align="center">
-<img  src="https://i.ibb.co/KL0G4dz/Screenshot-2024-05-15-100539.png"/>
-<img  src="https://i.ibb.co/G5WBZDC/Screenshot-2024-05-15-100624.png"/>
-<img  src="https://i.ibb.co/WshRpRv/Screenshot-2024-05-15-100647.png"/>
-<img  src="https://i.ibb.co/Y8xq93T/Screenshot-2024-05-15-100707.png"/>
-<img  src="https://i.ibb.co/KKDp417/Screenshot-2024-05-15-100733.png"/>
-<img  src="https://i.ibb.co/t4xPb63/Screenshot-2024-05-15-100753.png"/>
-<img  src="https://i.ibb.co/2MT7ygV/Screenshot-2024-05-15-100813.png"/>
-<img  src="https://i.ibb.co/k9qN1fx/Screenshot-2024-05-15-100836.png"/>
+<img style="width: 22%;" src="https://i.ibb.co/KL0G4dz/Screenshot-2024-05-15-100539.png"/>
+<img  style="width: 22%;" src="https://i.ibb.co/G5WBZDC/Screenshot-2024-05-15-100624.png"/>
+<img   style="width: 22%;" src="https://i.ibb.co/WshRpRv/Screenshot-2024-05-15-100647.png"/>
+<img  style="width: 22%;"src="https://i.ibb.co/Y8xq93T/Screenshot-2024-05-15-100707.png"/>
+<img  style="width: 25%;" src="https://i.ibb.co/KKDp417/Screenshot-2024-05-15-100733.png"/>
+<img  style="width: 25%;" src="https://i.ibb.co/t4xPb63/Screenshot-2024-05-15-100753.png"/>
+<img   style="width: 25%;"src="https://i.ibb.co/2MT7ygV/Screenshot-2024-05-15-100813.png"/>
+<img   style="width: 30%; "src="https://i.ibb.co/k9qN1fx/Screenshot-2024-05-15-100836.png"/>
 </p>
 <p align="center">
 
