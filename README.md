@@ -9,7 +9,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Rony Ahmed</b> Completed Diploma in Barishal Polytechnic Institute, Learning by <a target="_blank" href="https://web.programming-hero.com">Programming Hero</a>, Bangladesh</b>&nbsp; 
+    This is me <b>Rony Ahmed</b> Completed Diploma in Barishal Polytechnic Institute, Learning by <a target="_blank" href="https://web.programming-hero.com">Programming Hero</a>, Bangladesh</b>&nbsp; <a target="_blank" https://rony-ahmed6245.github.io/devHelp/">doc</a>
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 
