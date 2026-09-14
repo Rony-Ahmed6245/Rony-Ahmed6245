@@ -49,33 +49,6 @@ My long-term goal is to grow as a **Network Engineer** and become a **Network Sy
 
 
 <!-- ========================================================= -->
-<!--                       CAREER FOCUS                         -->
-<!-- ========================================================= -->
-
-## 🎯 Career Focus
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Networking-0D8ABC?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Routing-12355B?style=for-the-badge&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Switching-12355B?style=for-the-badge&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Security-12355B?style=for-the-badge&logoColor=white"/>
-
-</p>
-
-<p align="center">
-  <b>Network Engineering → Network Engineer → Network System Administrator</b>
-</p>
-
-<br>
-
-
-<!-- ========================================================= -->
 <!--                    NETWORKING SKILLS                       -->
 <!-- ========================================================= -->
 
@@ -246,7 +219,7 @@ I focus on hands-on practice with **Cisco Packet Tracer** to strengthen my under
 </p>
 
 <p align="center">
-  <b>CCNA — Cisco Networking</b>
+  <b>CCNA — CSL TRANING</b>
 </p>
 
 <br>
@@ -264,19 +237,6 @@ Barisal Polytechnic Institute (BPI)
 
 **Passing Year:** 2022  
 **CGPA:** 3.72 / 4.00
-
-<br>
-
-
-<!-- ========================================================= -->
-<!--                    CURRENT GOAL                            -->
-<!-- ========================================================= -->
-
-## 🚀 Current Goal
-
-> **Learn → Practice → Troubleshoot → Improve**
-
-My current focus is to strengthen my practical knowledge of **Cisco networking, routing, switching, network security, IP addressing, and troubleshooting** and grow into a professional Network Engineer.
 
 <br>
 
