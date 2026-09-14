@@ -11,6 +11,8 @@
   />
 </p>
 
+<br>
+
 <h1 align="center">Rony Ahmed</h1>
 
 <h3 align="center">Junior Network Engineer</h3>
@@ -24,57 +26,79 @@
   <b>Cisco networking and network infrastructure.</b>
 </p>
 
----
+<br>
 
 <!-- ========================================================= -->
 <!--                         ABOUT                              -->
 <!-- ========================================================= -->
 
-<table>
+<table width="100%" border="1" cellpadding="18" cellspacing="0">
 <tr>
-<td width="100%">
+<td align="center">
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
-I am a **Junior Network Engineer** with a Diploma in Computer Science & Engineering and a strong interest in **Computer Networking, Routing & Switching, Network Security, and Troubleshooting**.
+<p>
+I am a <b>Junior Network Engineer</b> with a Diploma in Computer Science & Engineering and a strong interest in <b>Computer Networking, Routing & Switching, Network Security, and Troubleshooting</b>.
+</p>
 
-I have completed **CCNA-focused training** and practical networking labs using **Cisco Packet Tracer**. I am continuously developing my technical skills through hands-on practice and real-world networking scenarios.
+<p>
+I have completed <b>CCNA-focused training</b> and practical networking labs using <b>Cisco Packet Tracer</b>. I am continuously developing my technical skills through hands-on practice and real-world networking scenarios.
+</p>
 
-My long-term goal is to grow as a **Network Engineer** and become a **Network System Administrator (NSA)**.
+<p>
+My long-term goal is to grow as a <b>Network Engineer</b> and become a <b>Network System Administrator (NSA)</b>.
+</p>
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
 <!-- ========================================================= -->
-<!--                 NETWORKING SKILLS                          -->
+<!--                 NETWORKING SKILLS                         -->
 <!-- ========================================================= -->
 
-## 🌐 Network Engineering Skills
+<table width="100%" border="1" cellpadding="15" cellspacing="0">
+<tr>
+<td align="center">
 
-<table>
+<h2>🌐 Network Engineering Skills</h2>
+
+</td>
+</tr>
+
 <tr>
 
-<td width="50%" valign="top">
+<td>
 
-### 🔵 Cisco Networking
+<table width="100%" cellpadding="15" cellspacing="8">
 
-`Cisco Routers` • `Cisco Switches` • `Cisco IOS`  
-`VLAN` • `Trunking` • `Inter-VLAN Routing`  
-`STP / RSTP` • `EtherChannel` • `Port Security` • `SSH`
+<tr>
+
+<td width="50%" align="center" valign="top" border="1">
+
+<h3>🔵 Cisco Networking</h3>
+
+<p>
+Cisco Routers • Cisco Switches • Cisco IOS<br>
+VLAN • Trunking • Inter-VLAN Routing<br>
+STP / RSTP • EtherChannel • Port Security • SSH
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🟦 Routing
+<h3>🟦 Routing</h3>
 
-`Static Routing` • `Default Routing` • `OSPFv2`  
-`Routing Table` • `WAN Connectivity`  
-`Route Selection` • `Dynamic Routing Concepts`  
-`Basic Routing Troubleshooting`
+<p>
+Static Routing • Default Routing • OSPFv2<br>
+Routing Table • WAN Connectivity<br>
+Route Selection • Dynamic Routing Concepts<br>
+Basic Routing Troubleshooting
+</p>
 
 </td>
 
@@ -82,23 +106,27 @@ My long-term goal is to grow as a **Network Engineer** and become a **Network Sy
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🛡️ Network Security
+<h3>🛡️ Network Security</h3>
 
-`ACL` • `Standard ACL` • `Extended ACL`  
-`Port Security` • `Sticky MAC` • `SSH`  
-`NAT / PAT` • `Basic Firewall Concepts`
+<p>
+Access Control List (ACL) • Standard ACL<br>
+Extended ACL • Port Security • Sticky MAC<br>
+SSH • NAT / PAT • Basic Firewall Concepts
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🌐 IP Addressing
+<h3>🌐 IP Addressing</h3>
 
-`IPv4 / IPv6` • `Public & Private IP`  
-`Subnet Mask` • `Default Gateway` • `CIDR`  
-`Subnetting` • `VLSM / FLSM` • `Supernetting`
+<p>
+IPv4 / IPv6 • Public & Private IP<br>
+Subnet Mask • Default Gateway • CIDR<br>
+Subnetting • VLSM / FLSM • Supernetting
+</p>
 
 </td>
 
@@ -106,41 +134,50 @@ My long-term goal is to grow as a **Network Engineer** and become a **Network Sy
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🔧 Network Services
+<h3>🔧 Network Services</h3>
 
-`DHCP` • `DNS` • `NAT` • `PAT`  
-`ARP` • `MAC Address`  
-`TCP/IP` • `OSI Model`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛠️ Troubleshooting
-
-`Interface Troubleshooting` • `VLAN Troubleshooting`  
-`Routing Troubleshooting` • `IP Connectivity`  
-`ARP Analysis` • `MAC Address Table`  
-`Ping` • `Traceroute`
+<p>
+DHCP • DNS • NAT • PAT<br>
+ARP • MAC Address<br>
+TCP/IP • OSI Model
+</p>
 
 </td>
 
+<td width="50%" align="center" valign="top">
+
+<h3>🛠️ Troubleshooting</h3>
+
+<p>
+Interface Troubleshooting • VLAN Troubleshooting<br>
+Routing Troubleshooting • IP Connectivity<br>
+ARP Analysis • MAC Address Table<br>
+Ping • Traceroute
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</td>
 </tr>
 </table>
 
----
+<br>
 
 <!-- ========================================================= -->
 <!--                     TOOLS                                  -->
 <!-- ========================================================= -->
 
-<table>
+<table width="100%" border="1" cellpadding="18" cellspacing="0">
 <tr>
-<td width="100%">
+<td align="center">
 
-## 🧰 Tools & Technologies
+<h2>🧰 Tools & Technologies</h2>
 
 <p align="center">
 
@@ -160,43 +197,45 @@ My long-term goal is to grow as a **Network Engineer** and become a **Network Sy
 </tr>
 </table>
 
----
+<br>
 
 <!-- ========================================================= -->
 <!--                  PRACTICAL LEARNING                        -->
 <!-- ========================================================= -->
 
-<table>
+<table width="100%" border="1" cellpadding="18" cellspacing="0">
 <tr>
-<td width="100%">
+<td align="center">
 
-## 🧪 Practical Learning
+<h2>🧪 Practical Learning</h2>
 
-I focus on hands-on practice with **Cisco Packet Tracer** to strengthen my understanding of:
+<p>
+I focus on hands-on practice with <b>Cisco Packet Tracer</b> to strengthen my understanding of:
+</p>
 
-<p align="center">
-
-`VLAN` • `Trunking` • `Inter-VLAN Routing` • `OSPF`  
-`Subnetting` • `ACL` • `NAT/PAT` • `DHCP`  
-`Port Security` • `SSH` • `Network Troubleshooting`
-
+<p>
+<b>
+VLAN • Trunking • Inter-VLAN Routing • OSPF<br>
+Subnetting • ACL • NAT/PAT • DHCP<br>
+Port Security • SSH • Network Troubleshooting
+</b>
 </p>
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
 <!-- ========================================================= -->
 <!--                    CERTIFICATION                           -->
 <!-- ========================================================= -->
 
-<table>
+<table width="100%" border="1" cellpadding="18" cellspacing="0">
 <tr>
-<td width="100%">
+<td align="center">
 
-## 🏆 Certification & Training
+<h2>🏆 Certification & Training</h2>
 
 <p align="center">
 
@@ -206,70 +245,75 @@ I focus on hands-on practice with **Cisco Packet Tracer** to strengthen my under
 
 </p>
 
-<p align="center">
-  <b>CCNA — CSL TRAINING</b>
+<p>
+<b>CCNA — CSL TRAINING</b>
 </p>
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
 <!-- ========================================================= -->
 <!--                       EDUCATION                            -->
 <!-- ========================================================= -->
 
-<table>
+<table width="100%" border="1" cellpadding="18" cellspacing="0">
 <tr>
-<td width="100%">
+<td align="center">
 
-## 🎓 Education
+<h2>🎓 Education</h2>
 
-**Diploma in Computer Science & Engineering**
+<h3>Diploma in Computer Science & Engineering</h3>
 
-**Barisal Polytechnic Institute (BPI)**
+<p>
+<b>Barisal Polytechnic Institute (BPI)</b>
+</p>
 
-`Passing Year: 2022`  
-`CGPA: 3.72 / 4.00`
+<p>
+<b>Passing Year:</b> 2022
+&nbsp;&nbsp; • &nbsp;&nbsp;
+<b>CGPA:</b> 3.72 / 4.00
+</p>
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
 <!-- ========================================================= -->
 <!--                     CONNECT                                -->
 <!-- ========================================================= -->
 
-<table>
+<table width="100%" border="1" cellpadding="18" cellspacing="0">
 <tr>
-<td width="100%">
+<td align="center">
 
-## 🤝 Connect With Me
+<h2>🤝 Connect With Me</h2>
 
-<p align="center">
+<p>
 
 <a href="https://rony-ahmed.netlify.app/">
-  <img
-    src="https://img.shields.io/badge/Portfolio-0D8ABC?style=for-the-badge&logo=google-chrome&logoColor=white"
-    alt="Portfolio"
-  />
+<img
+src="https://img.shields.io/badge/Portfolio-0D8ABC?style=for-the-badge&logo=google-chrome&logoColor=white"
+alt="Portfolio"
+/>
 </a>
 
 <a href="https://www.linkedin.com/in/ronyahmed6245/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+<img
+src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+alt="LinkedIn"
+/>
 </a>
 
 <a href="https://github.com/Rony-Ahmed6245">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+<img
+src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+alt="GitHub"
+/>
 </a>
 
 </p>
@@ -278,19 +322,19 @@ I focus on hands-on practice with **Cisco Packet Tracer** to strengthen my under
 </tr>
 </table>
 
----
+<br>
 
 <p align="center">
-  <b>Network Engineer | Cisco Networking | Continuous Learning</b>
+<b>Network Engineer | Cisco Networking | Continuous Learning</b>
 </p>
 
 <p align="center">
-  <i>"Learn the fundamentals. Practice the configuration. Solve the problem."</i>
+<i>"Learn the fundamentals. Practice the configuration. Solve the problem."</i>
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Rony-Ahmed6245&label=Profile%20Views&color=0D8ABC&style=flat"
-    alt="Profile Views"
-  />
+<img
+src="https://komarev.com/ghpvc/?username=Rony-Ahmed6245&label=Profile%20Views&color=0D8ABC&style=flat"
+alt="Profile Views"
+/>
 </p>
