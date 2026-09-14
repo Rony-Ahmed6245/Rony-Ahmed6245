@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://chatgpt.com/s/m_6aa7de80c8a08191bdde7977eb0ac02a"
+    src="https://github.com/Rony-Ahmed6245/Rony-Ahmed6245/blob/main/ChatGPT%20Image%20Sep%2014,%202026,%2005_47_53%20PM.png?raw=true"
     width="100%"
     alt="Rony Ahmed - Network Engineer"
   />
