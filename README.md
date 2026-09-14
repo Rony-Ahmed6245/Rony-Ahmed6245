@@ -11,15 +11,9 @@
   />
 </p>
 
-<br>
+<h1 align="center">Rony Ahmed</h1>
 
-<h1 align="center">
-  Rony Ahmed
-</h1>
-
-<h3 align="center">
-  Junior Network Engineer
-</h3>
+<h3 align="center">Junior Network Engineer</h3>
 
 <p align="center">
   <b>CCNA • Routing & Switching • Network Security • Troubleshooting</b>
@@ -30,12 +24,15 @@
   <b>Cisco networking and network infrastructure.</b>
 </p>
 
-<br>
-
+---
 
 <!-- ========================================================= -->
 <!--                         ABOUT                              -->
 <!-- ========================================================= -->
+
+<table>
+<tr>
+<td width="100%">
 
 ## 👨‍💻 About Me
 
@@ -45,11 +42,14 @@ I have completed **CCNA-focused training** and practical networking labs using *
 
 My long-term goal is to grow as a **Network Engineer** and become a **Network System Administrator (NSA)**.
 
-<br>
+</td>
+</tr>
+</table>
 
+---
 
 <!-- ========================================================= -->
-<!--                    NETWORKING SKILLS                       -->
+<!--                 NETWORKING SKILLS                          -->
 <!-- ========================================================= -->
 
 ## 🌐 Network Engineering Skills
@@ -61,16 +61,9 @@ My long-term goal is to grow as a **Network Engineer** and become a **Network Sy
 
 ### 🔵 Cisco Networking
 
-- Cisco Routers
-- Cisco Switches
-- Cisco IOS
-- VLAN
-- Trunking
-- Inter-VLAN Routing
-- STP / RSTP
-- EtherChannel
-- Port Security
-- SSH
+`Cisco Routers` • `Cisco Switches` • `Cisco IOS`  
+`VLAN` • `Trunking` • `Inter-VLAN Routing`  
+`STP / RSTP` • `EtherChannel` • `Port Security` • `SSH`
 
 </td>
 
@@ -78,14 +71,10 @@ My long-term goal is to grow as a **Network Engineer** and become a **Network Sy
 
 ### 🟦 Routing
 
-- Static Routing
-- Default Routing
-- OSPFv2
-- Routing Table
-- WAN Connectivity
-- Route Selection
-- Basic Routing Troubleshooting
-- Dynamic Routing Concepts
+`Static Routing` • `Default Routing` • `OSPFv2`  
+`Routing Table` • `WAN Connectivity`  
+`Route Selection` • `Dynamic Routing Concepts`  
+`Basic Routing Troubleshooting`
 
 </td>
 
@@ -97,14 +86,9 @@ My long-term goal is to grow as a **Network Engineer** and become a **Network Sy
 
 ### 🛡️ Network Security
 
-- Access Control List (ACL)
-- Standard ACL
-- Extended ACL
-- Port Security
-- Sticky MAC
-- SSH
-- NAT / PAT
-- Basic Firewall Concepts
+`ACL` • `Standard ACL` • `Extended ACL`  
+`Port Security` • `Sticky MAC` • `SSH`  
+`NAT / PAT` • `Basic Firewall Concepts`
 
 </td>
 
@@ -112,14 +96,9 @@ My long-term goal is to grow as a **Network Engineer** and become a **Network Sy
 
 ### 🌐 IP Addressing
 
-- IPv4 / IPv6
-- Public & Private IP
-- Subnet Mask
-- Default Gateway
-- CIDR
-- Subnetting
-- VLSM / FLSM
-- Supernetting
+`IPv4 / IPv6` • `Public & Private IP`  
+`Subnet Mask` • `Default Gateway` • `CIDR`  
+`Subnetting` • `VLSM / FLSM` • `Supernetting`
 
 </td>
 
@@ -131,14 +110,9 @@ My long-term goal is to grow as a **Network Engineer** and become a **Network Sy
 
 ### 🔧 Network Services
 
-- DHCP
-- DNS
-- NAT
-- PAT
-- ARP
-- MAC Address
-- TCP/IP
-- OSI Model
+`DHCP` • `DNS` • `NAT` • `PAT`  
+`ARP` • `MAC Address`  
+`TCP/IP` • `OSI Model`
 
 </td>
 
@@ -146,27 +120,25 @@ My long-term goal is to grow as a **Network Engineer** and become a **Network Sy
 
 ### 🛠️ Troubleshooting
 
-- Interface Troubleshooting
-- VLAN Troubleshooting
-- Routing Troubleshooting
-- IP Connectivity
-- ARP Analysis
-- MAC Address Table
-- Ping
-- Traceroute
+`Interface Troubleshooting` • `VLAN Troubleshooting`  
+`Routing Troubleshooting` • `IP Connectivity`  
+`ARP Analysis` • `MAC Address Table`  
+`Ping` • `Traceroute`
 
 </td>
 
 </tr>
-
 </table>
 
-<br>
-
+---
 
 <!-- ========================================================= -->
 <!--                     TOOLS                                  -->
 <!-- ========================================================= -->
+
+<table>
+<tr>
+<td width="100%">
 
 ## 🧰 Tools & Technologies
 
@@ -184,12 +156,19 @@ My long-term goal is to grow as a **Network Engineer** and become a **Network Sy
 
 </p>
 
-<br>
+</td>
+</tr>
+</table>
 
+---
 
 <!-- ========================================================= -->
 <!--                  PRACTICAL LEARNING                        -->
 <!-- ========================================================= -->
+
+<table>
+<tr>
+<td width="100%">
 
 ## 🧪 Practical Learning
 
@@ -203,47 +182,70 @@ I focus on hands-on practice with **Cisco Packet Tracer** to strengthen my under
 
 </p>
 
-<br>
+</td>
+</tr>
+</table>
 
+---
 
 <!-- ========================================================= -->
 <!--                    CERTIFICATION                           -->
 <!-- ========================================================= -->
 
+<table>
+<tr>
+<td width="100%">
+
 ## 🏆 Certification & Training
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/CCNA-Cisco%20Certified%20Network%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/CCNA-Cisco%20Certified%20Network%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"
+/>
 
 </p>
 
 <p align="center">
-  <b>CCNA — CSL TRANING</b>
+  <b>CCNA — CSL TRAINING</b>
 </p>
 
-<br>
+</td>
+</tr>
+</table>
 
+---
 
 <!-- ========================================================= -->
 <!--                       EDUCATION                            -->
 <!-- ========================================================= -->
 
+<table>
+<tr>
+<td width="100%">
+
 ## 🎓 Education
 
 **Diploma in Computer Science & Engineering**
 
-Barisal Polytechnic Institute (BPI)
+**Barisal Polytechnic Institute (BPI)**
 
-**Passing Year:** 2022  
-**CGPA:** 3.72 / 4.00
+`Passing Year: 2022`  
+`CGPA: 3.72 / 4.00`
 
-<br>
+</td>
+</tr>
+</table>
 
+---
 
 <!-- ========================================================= -->
 <!--                     CONNECT                                -->
 <!-- ========================================================= -->
+
+<table>
+<tr>
+<td width="100%">
 
 ## 🤝 Connect With Me
 
@@ -272,7 +274,11 @@ Barisal Polytechnic Institute (BPI)
 
 </p>
 
-<br>
+</td>
+</tr>
+</table>
+
+---
 
 <p align="center">
   <b>Network Engineer | Cisco Networking | Continuous Learning</b>
