@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://i.ibb.co/fxqZpxt/brunch-1.png"
+    src="https://github.com/Rony-Ahmed6245/Rony-Ahmed6245/blob/main/Rony%20ahmed%20(3).png?raw=true"
     width="100%"
     alt="Rony Ahmed - Network Engineer"
   />
