@@ -1,4 +1,7 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ========================================================= -->
+<!--                    NETWORK ENGINEER                       -->
+<!--                     RONY AHMED                            -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
@@ -8,272 +11,320 @@
   />
 </p>
 
+<br>
+
 <h1 align="center">
-  Hi 👋, I'm Rony Ahmed
+  Rony Ahmed
 </h1>
 
 <h3 align="center">
-  Junior Network Engineer | CCNA | IT Support | Networking Enthusiast
+  Junior Network Engineer
 </h3>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?lines=Junior+Network+Engineer;CCNA+%7C+Routing+%26+Switching;Network+Troubleshooting;Cisco+Packet+Tracer+Labs;MikroTik+%7C+OLT+%7C+GPON;Aspiring+Network+System+Administrator&center=true&width=700&height=50"
-      alt="Typing SVG"
-    />
-  </a>
+  <b>CCNA • Routing & Switching • Network Security • Troubleshooting</b>
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Rony-Ahmed6245&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
+  Building practical networking skills with a strong focus on
+  <b>Cisco networking and network infrastructure.</b>
 </p>
 
+<br>
 
-<!-- ===================== ABOUT ME ===================== -->
+
+<!-- ========================================================= -->
+<!--                         ABOUT                              -->
+<!-- ========================================================= -->
 
 ## 👨‍💻 About Me
 
-I am a **Junior Network Engineer** with a Diploma in Computer Science & Engineering and a strong interest in **Computer Networking, Network Infrastructure, Routing & Switching, and Network Troubleshooting**.
+I am a **Junior Network Engineer** with a Diploma in Computer Science & Engineering and a strong interest in **Computer Networking, Routing & Switching, Network Security, and Troubleshooting**.
 
-I have completed **CCNA-focused training and practical networking labs** using Cisco Packet Tracer and continuously work on improving my real-world networking knowledge.
+I have completed **CCNA-focused training** and practical networking labs using **Cisco Packet Tracer**. I am continuously developing my technical skills through hands-on practice and real-world networking scenarios.
 
-My main career goal is to build a professional career in **Network Engineering** and eventually become a **Network System Administrator (NSA)**.
+My long-term goal is to grow as a **Network Engineer** and become a **Network System Administrator (NSA)**.
 
-### 🎯 Current Focus
-
-- 🌐 Computer Networking
-- 🔀 Routing & Switching
-- 📡 Network Infrastructure
-- 🧩 IP Addressing & Subnetting
-- 🔐 Network Security & ACL
-- 🛠️ Network Troubleshooting
-- 📶 MikroTik & ISP Networking
-- 🛰️ OLT / ONU / ONT / GPON
-- 💻 Cisco Packet Tracer Labs
-- 🚀 Continuous Networking Practice
+<br>
 
 
-<!-- ===================== CAREER OBJECTIVE ===================== -->
+<!-- ========================================================= -->
+<!--                       CAREER FOCUS                         -->
+<!-- ========================================================= -->
 
-## 🎯 Career Objective
+## 🎯 Career Focus
 
-To build a successful career as a **Network Engineer** by developing strong practical skills in network design, configuration, troubleshooting, security, and infrastructure management, while contributing effectively to a professional IT or ISP environment.
+<p align="center">
+
+<img src="https://img.shields.io/badge/Networking-0D8ABC?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Routing-12355B?style=for-the-badge&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Switching-12355B?style=for-the-badge&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Security-12355B?style=for-the-badge&logoColor=white"/>
+
+</p>
+
+<p align="center">
+  <b>Network Engineering → Network Engineer → Network System Administrator</b>
+</p>
+
+<br>
 
 
-<!-- ===================== NETWORKING SKILLS ===================== -->
+<!-- ========================================================= -->
+<!--                    NETWORKING SKILLS                       -->
+<!-- ========================================================= -->
 
 ## 🌐 Network Engineering Skills
 
-### 🔹 CCNA
+<table>
+<tr>
 
-- TCP/IP
-- OSI Model
-- LAN / WAN
-- Ethernet
-- MAC Address
-- ARP
-- IPv4 / IPv6
-- Public & Private IP
-- Default Gateway
-- CIDR
-- Subnetting
-- VLSM / FLSM
-- Supernetting
+<td width="50%" valign="top">
+
+### 🔵 Cisco Networking
+
+- Cisco Routers
+- Cisco Switches
+- Cisco IOS
 - VLAN
 - Trunking
 - Inter-VLAN Routing
 - STP / RSTP
 - EtherChannel
+- Port Security
+- SSH
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🟦 Routing
+
 - Static Routing
 - Default Routing
 - OSPFv2
-- DHCP
-- DNS
-- NAT / PAT
-- ACL
-- SSH
-- Port Security
-- Network Troubleshooting
+- Routing Table
+- WAN Connectivity
+- Route Selection
+- Basic Routing Troubleshooting
+- Dynamic Routing Concepts
 
+</td>
 
-### 🔹 Cisco Networking
+</tr>
 
-- Cisco Routers
-- Cisco Switches
-- VLAN Configuration
-- Trunk Configuration
-- Inter-VLAN Routing
-- Static & Default Routing
-- OSPF
-- DHCP Configuration
-- NAT / PAT
-- Standard & Extended ACL
-- Port Security
-- SSH Remote Access
-- MAC Address Table
-- ARP Table
-- Interface Configuration
-- Basic IOS Configuration
-- Network Troubleshooting
+<tr>
 
+<td width="50%" valign="top">
 
-### 🔹 ISP & Fiber Networking
-
-- OLT Configuration
-- ONU / ONT
-- GPON
-- FTTB
-- FTTH / FTTX
-- Fiber Optic Networking
-- PPPoE
-- ISP Network Basics
-- Customer Router Configuration
-- Basic ISP Troubleshooting
-
-
-### 🔹 Network Security
+### 🛡️ Network Security
 
 - Access Control List (ACL)
+- Standard ACL
+- Extended ACL
 - Port Security
 - Sticky MAC
 - SSH
-- Secure Device Access
+- NAT / PAT
 - Basic Firewall Concepts
-- Basic VPN Concepts
-- Network Access Control
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 IP Addressing
+
+- IPv4 / IPv6
+- Public & Private IP
+- Subnet Mask
+- Default Gateway
+- CIDR
+- Subnetting
+- VLSM / FLSM
+- Supernetting
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔧 Network Services
+
+- DHCP
+- DNS
+- NAT
+- PAT
+- ARP
+- MAC Address
+- TCP/IP
+- OSI Model
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Troubleshooting
+
+- Interface Troubleshooting
+- VLAN Troubleshooting
+- Routing Troubleshooting
+- IP Connectivity
+- ARP Analysis
+- MAC Address Table
+- Ping
+- Traceroute
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 
 
-<!-- ===================== NETWORKING TOOLS ===================== -->
+<!-- ========================================================= -->
+<!--                     TOOLS                                  -->
+<!-- ========================================================= -->
 
-## 🛠️ Networking Tools & Technologies
+## 🧰 Tools & Technologies
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/>
+<img src="https://img.shields.io/badge/IPv4%20%2F%20IPv6-12355B?style=for-the-badge&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/TCP%20%2F%20IP-12355B?style=for-the-badge&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/IPv4%20%2F%20IPv6-00599C?style=for-the-badge&logo=internetexplorer&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GPON-0088CC?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OLT%20%2F%20ONU-0088CC?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-0D8ABC?style=for-the-badge&logoColor=white"/>
 
 </p>
 
-
-<!-- ===================== NETWORK LAB ===================== -->
-
-## 🧪 Networking Lab & Practical Experience
-
-I regularly practice networking concepts through **Cisco Packet Tracer** and network configuration labs.
-
-### 🔬 Practical Labs
-
-- 🔹 VLAN & Trunk Configuration
-- 🔹 Inter-VLAN Routing
-- 🔹 Static Routing
-- 🔹 Default Routing
-- 🔹 OSPF Dynamic Routing
-- 🔹 VLSM & FLSM Subnetting
-- 🔹 Supernetting / CIDR
-- 🔹 DHCP Server Configuration
-- 🔹 NAT / PAT
-- 🔹 Standard ACL
-- 🔹 Extended ACL
-- 🔹 Port Security
-- 🔹 Sticky MAC Address
-- 🔹 SSH Configuration
-- 🔹 MAC Address Table Analysis
-- 🔹 ARP Table Analysis
-- 🔹 Network Troubleshooting
-- 🔹 Enterprise Network Design
-- 🔹 Multi-Department Network Design
-- 🔹 WAN Connectivity
-- 🔹 ISP Network Simulation
+<br>
 
 
-<!-- ===================== PROJECTS ===================== -->
+<!-- ========================================================= -->
+<!--                  PRACTICAL LEARNING                        -->
+<!-- ========================================================= -->
 
-## 🚀 Featured Networking Projects
+## 🧪 Practical Learning
 
-### 🔹 Enterprise Multi-Department Network
+I focus on hands-on practice with **Cisco Packet Tracer** to strengthen my understanding of:
 
-**Cisco Packet Tracer**
+<p align="center">
 
-- Designed a multi-department enterprise network using VLANs.
-- Configured trunk links between network devices.
-- Implemented Inter-VLAN Routing for department communication.
-- Configured DHCP for automatic IP address assignment.
-- Applied Port Security for access-layer protection.
-- Performed network connectivity and troubleshooting tests.
+`VLAN` • `Trunking` • `Inter-VLAN Routing` • `OSPF`  
+`Subnetting` • `ACL` • `NAT/PAT` • `DHCP`  
+`Port Security` • `SSH` • `Network Troubleshooting`
 
----
+</p>
 
-### 🔹 Dual-Site Enterprise Network with OSPF
-
-**Cisco Packet Tracer**
-
-- Designed a dual-site enterprise network connected through WAN links.
-- Configured multiple subnets for different departments.
-- Implemented OSPF dynamic routing for network communication.
-- Configured NAT/PAT on the edge router.
-- Implemented Extended ACL to control unauthorized traffic.
-- Configured SSH for secure remote administration.
-
----
-
-### 🔹 Enterprise Wireless LAN Controller Infrastructure
-
-**Cisco Packet Tracer**
-
-- Designed an enterprise wireless network using Cisco WLC and Access Points.
-- Configured centralized WLAN management.
-- Created SSIDs for different departments.
-- Implemented VLAN-based wireless segmentation.
-- Configured secure wireless access.
-- Managed multiple Access Points through centralized wireless infrastructure.
-
----
-
-### 🔹 ISP FTTB / GPON Network Design
-
-**Networking Lab**
-
-- Designed a basic ISP FTTB/GPON network architecture.
-- Connected OLT with fiber distribution infrastructure.
-- Simulated ONU/ONT-based customer connectivity.
-- Designed customer LAN connectivity through routers.
-- Practiced PPPoE and basic ISP networking concepts.
-- Studied practical fiber-based access network architecture.
+<br>
 
 
-<!-- ===================== NETWORK ARCHITECTURE ===================== -->
+<!-- ========================================================= -->
+<!--                    CERTIFICATION                           -->
+<!-- ========================================================= -->
 
-## 🏗️ Network Architecture Knowledge
+## 🏆 Certification & Training
 
-### Enterprise Network
+<p align="center">
 
-```text
-                    INTERNET
-                       │
-                  EDGE ROUTER
-                       │
-                  FIREWALL / NGFW
-                       │
-                CORE / L3 SWITCH
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-       VLAN 10      VLAN 20      VLAN 30
-       Admin        HR           IT
-          │            │            │
-       PCs/APs      PCs/APs      PCs/APs
+<img src="https://img.shields.io/badge/CCNA-Cisco%20Certified%20Network%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</p>
+
+<p align="center">
+  <b>CCNA — Cisco Networking</b>
+</p>
+
+<br>
+
+
+<!-- ========================================================= -->
+<!--                       EDUCATION                            -->
+<!-- ========================================================= -->
+
+## 🎓 Education
+
+**Diploma in Computer Science & Engineering**
+
+Barisal Polytechnic Institute (BPI)
+
+**Passing Year:** 2022  
+**CGPA:** 3.72 / 4.00
+
+<br>
+
+
+<!-- ========================================================= -->
+<!--                    CURRENT GOAL                            -->
+<!-- ========================================================= -->
+
+## 🚀 Current Goal
+
+> **Learn → Practice → Troubleshoot → Improve**
+
+My current focus is to strengthen my practical knowledge of **Cisco networking, routing, switching, network security, IP addressing, and troubleshooting** and grow into a professional Network Engineer.
+
+<br>
+
+
+<!-- ========================================================= -->
+<!--                     CONNECT                                -->
+<!-- ========================================================= -->
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://rony-ahmed.netlify.app/">
+  <img
+    src="https://img.shields.io/badge/Portfolio-0D8ABC?style=for-the-badge&logo=google-chrome&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/ronyahmed6245/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://github.com/Rony-Ahmed6245">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+  <b>Network Engineer | Cisco Networking | Continuous Learning</b>
+</p>
+
+<p align="center">
+  <i>"Learn the fundamentals. Practice the configuration. Solve the problem."</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Rony-Ahmed6245&label=Profile%20Views&color=0D8ABC&style=flat"
+    alt="Profile Views"
+  />
+</p>
